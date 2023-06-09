@@ -1,0 +1,8 @@
+.vs/
+*.csproj
+Library/
+Logs/
+UserSettings/
+obj/
+Packages/
+Assets/Unity.VisualScripting.Generated/
